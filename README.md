@@ -1,2 +1,1 @@
-# gabrielcaussi.github.io
-My Personal Blog
+# Domain migrate to: https://gabrielcaussi.netlify.app/
